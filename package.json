@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "16x."
+    "node": "16.X"
   },
   "name": "appvercel",
   "version": "0.0.0",
