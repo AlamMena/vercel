@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "14x."
+  },
   "name": "appvercel",
   "version": "0.0.0",
   "private": true,
